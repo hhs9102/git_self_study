@@ -1,0 +1,6 @@
+WOW~ 2번째 test
+
+
+2번째 branch에서 또 브랜치를 따서 커밋을한다. 이것은 branch2_1의 자식인 branch2_2 -> 이것을 결국 마스터에 머지할거다.
+
+git branch2_2 2번째 커밋
